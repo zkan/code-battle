@@ -1,7 +1,7 @@
 Code Battle
 ===========
 
-Code Battle by Python Coder in Thailand 
+Code Battle by Python Coder in Thailand ( https://www.facebook.com/PythonCodersTH )
 
 Racing
 =======
