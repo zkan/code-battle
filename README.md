@@ -1,4 +1,4 @@
-code-battle
+Code Battle
 ===========
 
 Code Battle by Python Coder in Thailand 
