@@ -22,6 +22,7 @@ See example of how your GitHub project should look at https://github.com/juacomp
 
 
 Follow steps below to submit your answers/scripts.
+
 1. Download question folders https://github.com/chanita/code-battle  ; each folder contains data file called numbers.txt.
 2. Put your script that solve the problem into that folder, name the script file “best_script.*”
 3. Your script must generate the run result as “run_result.txt” into the same folder.
@@ -30,12 +31,14 @@ Follow steps below to submit your answers/scripts.
 6. Join the event.
 
 Problems:
+
 1. The data file contains a series of 4 digits decimal number, some numbers are missing. What are they?
 2. The data file contains numbers, find the numbers occur more than once. How many duplicated?
 
 
 ปฏิบัติตามขั้นตอนต่อไปนี้ เพื่อส่งคำตอบ:
-1. ดาวน์โหลดโฟลเดอร์โจทย์ จาก https://github.com/chanita/code-battle ซึ่งในแต่ละโฟลเดอร์จะมี ไฟล์ข้อมูลชื่อว่า numbers.txt
+
+1. ดาวน์โหลดโฟลเดอร์โจทย์ จาก <https://github.com/chanita/code-battle ซึ่งในแต่ละโฟลเดอร์จะมี ไฟล์ข้อมูลชื่อว่า numbers.txt
 2. ใส่ script ที่แก้โจทย์ของคุณเอาไว้ในโฟลเดอร์นี้ โดยตั้งชื่อไฟล์ว่า "best_script.*"
 3. Script ของคุณจะต้องบันทึกคำตอบเอาไว้ในไฟล์ชื่อ "run_result.txt" และเก็บไว้ในโฟลเดอร์เดียวกันกับไฟล์ข้อมูล
 4. รวบรวมทุกโฟลเดอร์ของคุณเอาไว้ แล้วนำไปไว้ที่ ไปไว้ที่ GitHub ดูตัวอย่างได้ที่ https://github.com/juacompe/code_battle_sample.
@@ -43,6 +46,7 @@ Problems:
 6. มาร่วมงาน
 
 โจทย์:
+
 1. นี่คือ series ของ เลขฐานสิบ 4 หลัก (0000 - 9999) มีเลขบางชุดหายไป มันคืออะไรบ้าง
 2. นี่คือ ไฟล์นี้มีเลข่จำนวนมาก ให้หา เลขที่ปรากฏตัวซ้ำซาก และบอกด้วยว่าซ้ำไปกี่ครั้ง
 
