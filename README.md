@@ -7,7 +7,7 @@ Racing
 =======
 Aug 4, 2013 has 2 rounds (2 programming problem).
 
-Solve the programming problem given.
+Solve the programming problem given at https://github.com/chanita/code-battle.
 
 Finish it before the event.
 
