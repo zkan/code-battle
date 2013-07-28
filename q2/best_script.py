@@ -1,8 +1,5 @@
 import gc
-import time
 gc.disable()
-
-start_time = time.time()
 
 file_input  = open('numbers.txt')
 file_output = open('run_result.txt', 'w')
@@ -23,5 +20,3 @@ for k, v in result.items():
 
 file_input.close()
 file_output.close()
-
-print time.time() - start_time
