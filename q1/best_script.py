@@ -1,3 +1,6 @@
+import gc
+gc.disable()
+
 file_input = open('numbers.txt')
 
 given_series = set(line.strip() for line in file_input)
